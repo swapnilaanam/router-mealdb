@@ -1,0 +1,9 @@
+.loading {
+    background-color: orange;
+    color: white;
+}
+
+a {
+    padding: 5px 10px;
+    border-radius: 8px;
+}
